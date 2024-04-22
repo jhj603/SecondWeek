@@ -1,0 +1,15 @@
+C:\Users\603jh\Desktop\Camp\SecondWeek\SecondWeek\bin\Debug\net8.0\SecondWeek.exe
+C:\Users\603jh\Desktop\Camp\SecondWeek\SecondWeek\bin\Debug\net8.0\SecondWeek.deps.json
+C:\Users\603jh\Desktop\Camp\SecondWeek\SecondWeek\bin\Debug\net8.0\SecondWeek.runtimeconfig.json
+C:\Users\603jh\Desktop\Camp\SecondWeek\SecondWeek\bin\Debug\net8.0\SecondWeek.dll
+C:\Users\603jh\Desktop\Camp\SecondWeek\SecondWeek\bin\Debug\net8.0\SecondWeek.pdb
+C:\Users\603jh\Desktop\Camp\SecondWeek\SecondWeek\obj\Debug\net8.0\SecondWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\603jh\Desktop\Camp\SecondWeek\SecondWeek\obj\Debug\net8.0\SecondWeek.AssemblyInfoInputs.cache
+C:\Users\603jh\Desktop\Camp\SecondWeek\SecondWeek\obj\Debug\net8.0\SecondWeek.AssemblyInfo.cs
+C:\Users\603jh\Desktop\Camp\SecondWeek\SecondWeek\obj\Debug\net8.0\SecondWeek.csproj.CoreCompileInputs.cache
+C:\Users\603jh\Desktop\Camp\SecondWeek\SecondWeek\obj\Debug\net8.0\SecondWeek.sourcelink.json
+C:\Users\603jh\Desktop\Camp\SecondWeek\SecondWeek\obj\Debug\net8.0\SecondWeek.dll
+C:\Users\603jh\Desktop\Camp\SecondWeek\SecondWeek\obj\Debug\net8.0\refint\SecondWeek.dll
+C:\Users\603jh\Desktop\Camp\SecondWeek\SecondWeek\obj\Debug\net8.0\SecondWeek.pdb
+C:\Users\603jh\Desktop\Camp\SecondWeek\SecondWeek\obj\Debug\net8.0\SecondWeek.genruntimeconfig.cache
+C:\Users\603jh\Desktop\Camp\SecondWeek\SecondWeek\obj\Debug\net8.0\ref\SecondWeek.dll
