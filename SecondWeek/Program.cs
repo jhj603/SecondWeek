@@ -42,7 +42,33 @@ namespace SecondWeek
             float fnum1 = 3.14f;
             float result2 = num7 + fnum1;   //int형과 float형의 덧셈에서 float형으로 암시적 형변환
 
+            // Console.ReadLine() : 콘솔 입력을 위한 함수. 사용자가 입력한 값을 문자열로 반환
+            //                      숫자나 논리 값을 입력 받을 때는 적절한 형변환을 해줘야 함.
+            string input = Console.ReadLine();
 
+            //Split() : 여러 개의 값을 한 줄로 입력받았을 때, 문자열을 분리해서 처리할 수 있도록 하는 함수
+            //          매개변수로 구분 문자를 넘기면 해당 문자를 기준으로 문자열을 분리해서 문자열 배열에
+            //          저장. 반환값이 문자열 배열
+            Console.Write("Enter two numbers: ");
+            input = Console.ReadLine();    // "10 20"과 같은 문자열을 입력받음
+
+            string[] numbers = input.Split(' ');  // 문자열을 공백으로 구분하여 배열로 만듦
+                                                  // 매개변수로 아무것도 사용하지 않으면 기본으로 공백 문자로
+                                                  // 분리
+
+            num1 = int.Parse(numbers[0]);     // 첫 번째 문자열을 정수로 변환하여 저장
+            num2 = int.Parse(numbers[1]);     // 두 번째 문자열을 정수로 변환하여 저장
+
+            int sum = num1 + num2;            // 두 수를 더하여 결과를 계산
+
+            Console.WriteLine("The sum of {0} and {1} is {2}.", num1, num2, sum);
+            // The sum of 10 and 20 is 30. 출력
+
+            // var : C# 3.0 이상부터 사용 가능한 자료형. 컴파일러에 의해 변수의 자료형이 자동으로 결정
+            //       초기화하는 값의 자료형에 따라 변수의 자료형이 결정됨.
+            var numvar = 10;         // int 자료형으로 결정됨
+            var name = "kero";   // string 자료형으로 결정됨
+            var pi = 3.141592;    // double 자료형으로 결정됨
         }
     }
 }
