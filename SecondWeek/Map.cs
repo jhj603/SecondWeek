@@ -8,9 +8,7 @@ namespace SecondWeek
 {
     internal abstract class Map
     {
-        int selectInput;
-
-        Player player = null;
+        protected Player player = null;
 
         public Map(Player _player)
         {

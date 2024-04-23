@@ -9,5 +9,14 @@
             if (mainGame.Initialize())  // 게임에 필요한 것들 초기화
                 mainGame.Update();      // 게임을 진행
         }
+
+        public static void Input_Error()
+        {
+            Console.WriteLine("잘못된 입력입니다.");
+
+            Thread.Sleep(1000);
+
+            Console.Clear();
+        }
     }
 }
