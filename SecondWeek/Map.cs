@@ -10,13 +10,10 @@ namespace SecondWeek
     {
         protected Player player = null;
 
-        public Map(Player _player)
-        {
-            player = _player;
+        public Map()
+        { 
         }
 
-        public abstract void Update();
-        
-        public abstract void Draw();
+        public abstract void Update(Player _player);
     }
 }

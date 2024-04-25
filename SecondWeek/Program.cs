@@ -1,4 +1,6 @@
-﻿namespace SecondWeek
+﻿using System.ComponentModel;
+
+namespace SecondWeek
 {
     internal class Program
     {
@@ -12,6 +14,7 @@
 
         public static void Input_Error()
         {
+            Console.WriteLine();
             Console.WriteLine("잘못된 입력입니다.");
 
             Thread.Sleep(1000);
