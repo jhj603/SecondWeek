@@ -1,11 +1,11 @@
 {
-  "Level": 6,
+  "Level": 4,
   "Name": "JHJ",
   "PlayerClass": "전사",
-  "Attack": 12.5,
-  "Defense": 10,
-  "HP": 350,
-  "Gold": 16236,
-  "MaxHP": 350,
+  "Attack": 11.5,
+  "Defense": 8,
+  "HP": 250,
+  "Gold": 32003,
+  "MaxHP": 250,
   "Exp": 0
 }
